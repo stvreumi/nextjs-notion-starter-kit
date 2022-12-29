@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Dennis Chung',
-  domain: 'personal-fita80qhq-stvreumi.vercel.app',
+  domain: 'personal-stvreumi.vercel.app',
   author: 'Dennis Chung',
 
   // open graph metadata (optional)
