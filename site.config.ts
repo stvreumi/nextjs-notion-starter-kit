@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Dennis Chung',
 
   // open graph metadata (optional)
-  description: 'Dennis Chung\' notes(experimental)',
+  description: "Dennis Chung's notes(experimental)",
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
